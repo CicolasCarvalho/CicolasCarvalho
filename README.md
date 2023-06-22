@@ -28,4 +28,4 @@ em alguns arquivos serão encontrados algumas anotações em comentarios como:
 //@end
 ```
 
-essas anotações fazem parte do meu <a href="https://gist.github.com/Cicolas/fae0cd367c18769f59cf1ff0b7f5b8e4">"compilador" de trabalhos</a> (há uma explicação breve no próprio arquivo)
+essas anotações fazem parte do [meu "compilador" de trabalhos](https://github.com/CicolasCarvalho/codeX) (há uma explicação breve no repositório)
